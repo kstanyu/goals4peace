@@ -1,0 +1,3 @@
+rootProject.name = 'goals4peace'
+
+include ':app'
